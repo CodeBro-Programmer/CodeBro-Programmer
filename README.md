@@ -51,7 +51,7 @@ StudyQV is one of my main startup projects and one of the projects I'm using to 
 
 **Project:** www.studyqv.xyz
 
-**Github:** - Private
+**Github:** Private 🔐
 
 ---
 
@@ -77,7 +77,7 @@ IvuBiz is also one of my main startup projects and has been teaching me more abo
 
 **Project:** https://business-manager-webapp-v2.vercel.app
 
-**Github:** - Private
+**Github:** Private 🔐
 
 ---
 
