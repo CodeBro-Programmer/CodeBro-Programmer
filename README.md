@@ -2,266 +2,106 @@
 
 ### Mechanical Engineering Student • Junior Full-Stack Developer • Programmer • Problem Solver
 
-I'm a Mechanical Engineering student and a **junior full-stack developer** who enjoys solving problems with technology and building practical software.
+I'm a Mechanical Engineering student and junior full-stack developer passionate about **building practical software and solving real-world problems with technology**.
 
-I enjoy taking an idea, breaking it down into smaller problems, and turning those problems into working software. I've built websites, web applications, APIs and other software projects while continuously improving my understanding of both frontend and backend development.
+I build websites, web applications and APIs, while continuously improving my frontend, backend and software engineering skills.
 
-At the moment, I'm spending a lot of time strengthening my **backend development and software engineering skills**, but my goal is to become a well-rounded developer who understands the entire process of taking a product from an idea to a working application.
-
----
-
-## 🧑🏽‍💻 About Me
-
-My journey into programming started with curiosity about how websites and software work.
-
-Over time, that curiosity has grown into actually building things.
-
-I've worked on different websites and web applications, experimented with different technologies, and gradually moved from simply writing code to thinking more about **how complete systems should be designed and built**.
-
-I'm particularly interested in understanding how the frontend, backend, database and infrastructure of an application work together.
-
-I don't want to just learn how to write code.
-
-**I want to learn how to build things properly.**
+Currently, I'm focusing heavily on **backend development, databases, APIs and system architecture**.
 
 ---
 
-## 🚀 My Main Projects
-
-The projects below are some of the main products I've worked on and represent a significant part of my development journey.
+## 🚀 Main Projects
 
 ### 📚 StudyQV
 
-**StudyQV** is a university-focused CBT and revision platform I'm building to help students practice with past questions and prepare more effectively for their courses.
+A university-focused **CBT and revision platform** designed to help students practice past questions and prepare for their courses.
 
-The project has pushed me beyond basic CRUD applications into areas such as:
+**Built with:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
 
-* Authentication and authorization
-* PostgreSQL database design
-* Subscription systems
-* Admin dashboards
-* Question management
-* Course and topic organization
-* Protected content
-* Competition systems
-* Timed CBT sessions
-* APIs and frontend/backend communication
-
-StudyQV is one of my main startup projects and one of the projects I'm using to learn what it actually takes to build and maintain a real product.
-
-**Project:** www.studyqv.xyz
-
-**Github:** Private 🔐
+🌐 **Live:** [studyqv.xyz](https://www.studyqv.xyz)
+🔐 **GitHub:** Private
 
 ---
 
-### 📊 Business Manager — *(IvoBix)*
+### 📊 Business Manager — IvoBix
 
-**Business Manager**, currently being developed under the name **IvoBix**, is a business management application focused on helping Nigerian businesses gain better visibility and control over their operations.
+**IvoBix** is a business management system being developed to help Nigerian businesses manage their operations with better visibility and control.
 
-The idea is to build a practical system for businesses such as supermarkets, pharmacies, warehouses and retailers.
+**Built with:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
 
-I'm working on areas including:
-
-* Business management
-* Inventory
-* Employees and roles
-* Authentication
-* Business-based data isolation
-* PostgreSQL
-* REST APIs
-* Dashboard systems
-* Business operations and visibility
-
-IvuBiz is also one of my main startup projects and has been teaching me more about building software around **real business requirements**, rather than just technical features.
-
-**Project:** https://business-manager-webapp-v2.vercel.app
-
-**Github:** Private 🔐
+🌐 **Live:** [Business Manager](https://business-manager-webapp-v2.vercel.app)
+🔐 **GitHub:** Private
 
 ---
-
-## 🌐 Other Things I've Built
-
-Apart from my main projects, I've also built **various websites, web applications, experiments and smaller projects** while learning and improving my development skills.
-
-Some of the projects I've decided to highlight include:
 
 ### 🧮 GPA & CGPA Calculator
 
-A simple academic performance calculator built with **HTML, CSS and JavaScript**, designed to calculate GPA and CGPA.
+A simple academic calculator built with **HTML, CSS and JavaScript** for calculating GPA and CGPA.
 
-It's one of the smaller projects I've built, but it represents the kind of practical problems I enjoy turning into simple software solutions.
+🌐 **Live:** [GPA & CGPA Calculator](https://gpa-calculator-codebro.vercel.app)
+💻 **GitHub:** [Repository](https://github.com/CodeBro-Programmer/GPA-calculator)
 
-**Project:** https://gpa-calculator-codebro.vercel.app
-
-**Github:** https://github.com/CodeBro-Programmer/GPA-calculator
-
-These are only a few examples.
-
-**I've built other things over time, and I'm continuously adding to that list.**
+> These are only a few of the projects I've built. I also work on various websites, web applications and smaller experiments.
 
 ---
 
-## 🛠️ My Current Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
+**Frontend:**
 `HTML` `CSS` `JavaScript`
 
-### Backend
-
+**Backend:**
 `Node.js` `Express.js`
 
-### Databases
-
+**Databases:**
 `PostgreSQL` `MongoDB`
 
-### Tools & Platforms
-
+**Tools & Platforms:**
 `Git` `GitHub` `VS Code` `Vercel` `Railway` `Render`
 
-I'm continuously expanding this stack as I learn and build more.
-
 ---
 
-## 🧠 What I'm Currently Learning
+## 🧠 Currently Learning
 
-As a junior full-stack developer, I'm continuing to strengthen both sides of development.
+I'm currently strengthening my skills in:
 
-However, **backend development and software engineering fundamentals are currently receiving a lot of my attention**.
-
-I'm spending time understanding things such as:
-
-* Designing REST APIs
+* REST API design
 * Authentication & authorization
-* JWT and cookies
-* PostgreSQL and relational database design
-* SQL queries and transactions
+* PostgreSQL & database design
+* SQL & transactions
 * Backend architecture
-* Error handling
-* Security fundamentals
-* HTTP and how web applications communicate
-* Git and version control
-* Building applications that are maintainable as they grow
+* HTTP & web application security
+* Git & version control
+* Building maintainable applications
 
-I'm trying to move beyond:
+My goal is simple:
 
-> "I can make it work."
-
-towards:
-
-> **"I understand why it works, and I can build it properly."**
-
----
-
-## 🎯 My Current Goals
-
-### This Year
-
-* Become significantly stronger as a full-stack developer
-* Improve my backend development skills
-* Build and ship more real-world applications
-* Improve my database and API design skills
-* Understand software architecture more deeply
-* Contribute to meaningful projects
-* Build a strong portfolio based on actual work
-* Continue growing **CodeBro Digital**, my web development brand
-
-### Long Term
-
-I want to become a highly capable software developer who can take a problem from:
-
-**Idea → Architecture → Development → Deployment**
-
-I also want to build products of my own instead of only building software for other people.
-
----
-
-## 🌱 The Direction I'm Taking
-
-My current path is:
-
-
-Learn
-
-  ↓
-  
-Build
-
-  ↓
-  
-Break things
-
-  ↓
-  
-Understand why they broke
-
-  ↓
-  
-Fix them
-
-  ↓
-  
-Build better
-
-  ↓
-  
-Repeat
-
-
-I'm still early in the journey, and I don't claim to know everything.
-
-But I believe consistently building real things is one of the best ways to become better at software development.
+> **Don't just make it work. Understand why it works and build it properly.**
 
 ---
 
 ## 💼 CodeBro Digital
 
-**CodeBro Digital** is my web development brand.
+**CodeBro Digital** is my web development brand, where I build websites and digital solutions for businesses and individuals.
 
-Through CodeBro Digital, I'm exploring how software development can be turned into practical solutions for businesses and individuals from websites to web applications.
-
-The goal isn't simply to make websites look good.
-
-It's to build digital products that are **useful, understandable and built around the problem they are meant to solve.**
+My goal is to create software that is **useful, practical and built around real problems.**
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Where I'm Going
 
-| Project                       | Description                                                       |
-| ----------------------------- | ----------------------------------------------------------------- |
-| **StudyQV**                   | University-focused CBT and revision platform                      |
-| **Business Manager (IvoBix)** | Business management system for Nigerian businesses                |
-| **GPA & CGPA Calculator**     | Academic performance calculator built with HTML, CSS & JavaScript |
+I'm working towards becoming a highly capable software developer who can take a problem from:
 
-These are only some of the projects I've worked on. My repositories contain more of my experiments, websites and development work.
+**Idea → Architecture → Development → Deployment**
 
----
+I'm still learning, still building, and still improving.
 
-## 📈 What I'm Working Towards
-
-I started with curiosity about how websites work.
-
-That curiosity has grown into something much bigger:
-
-**I want to become someone who can look at a problem, understand it deeply, and build a solution.**
-
-That's the direction I'm taking.
+**Learn → Build → Break → Understand → Fix → Build Better.**
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm open to:
+I'm open to **software development opportunities, collaborations, interesting projects and learning from other developers.**
 
-* Software development opportunities
-* Collaborations
-* Interesting projects
-* Learning from other developers
-* Building useful products
-
-If you're interested in what I'm building, feel free to explore my repositories.
-
-**Thanks for stopping by. 🚀**
+Thanks for stopping by. 🚀
