@@ -19,6 +19,7 @@ A university-focused **CBT and revision platform** designed to help students pra
 **Built with:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
 
 🌐 **Live:** [studyqv.xyz](https://www.studyqv.xyz)
+
 🔐 **GitHub:** Private
 
 ---
@@ -30,6 +31,7 @@ A university-focused **CBT and revision platform** designed to help students pra
 **Built with:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
 
 🌐 **Live:** [Business Manager](https://business-manager-webapp-v2.vercel.app)
+
 🔐 **GitHub:** Private
 
 ---
@@ -39,6 +41,7 @@ A university-focused **CBT and revision platform** designed to help students pra
 A simple academic calculator built with **HTML, CSS and JavaScript** for calculating GPA and CGPA.
 
 🌐 **Live:** [GPA & CGPA Calculator](https://gpa-calculator-codebro.vercel.app)
+
 💻 **GitHub:** [Repository](https://github.com/CodeBro-Programmer/GPA-calculator)
 
 > These are only a few of the projects I've built. I also work on various websites, web applications and smaller experiments.
