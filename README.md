@@ -184,17 +184,29 @@ My current path is:
 
 
 Learn
+
   ↓
+  
 Build
+
   ↓
+  
 Break things
+
   ↓
+  
 Understand why they broke
+
   ↓
+  
 Fix them
+
   ↓
+  
 Build better
+
   ↓
+  
 Repeat
 
 
