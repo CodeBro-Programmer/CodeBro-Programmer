@@ -50,6 +50,7 @@ The project has pushed me beyond basic CRUD applications into areas such as:
 StudyQV is one of my main startup projects and one of the projects I'm using to learn what it actually takes to build and maintain a real product.
 
 **Project:** www.studyqv.xyz
+**Github:** - Private
 
 ---
 
@@ -73,7 +74,8 @@ I'm working on areas including:
 
 IvuBiz is also one of my main startup projects and has been teaching me more about building software around **real business requirements**, rather than just technical features.
 
-**Project:** [Business Manager (IvuBiz) — GitHub Repository]
+**Project:** https://business-manager-webapp-v2.vercel.app
+**Github:** - Private
 
 ---
 
@@ -89,7 +91,8 @@ A simple academic performance calculator built with **HTML, CSS and JavaScript**
 
 It's one of the smaller projects I've built, but it represents the kind of practical problems I enjoy turning into simple software solutions.
 
-**Project:** [GPA & CGPA Calculator — Project Repository]
+**Project:** https://gpa-calculator-codebro.vercel.app
+**Github:**
 
 These are only a few examples.
 
