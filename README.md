@@ -1,4 +1,4 @@
-# Hey, I'm Eruchi 👋
+# Hey, I'm CodeBro 👋
 
 ### Mechanical Engineering Student • Junior Full-Stack Developer • Programmer • Problem Solver
 
