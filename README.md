@@ -57,7 +57,7 @@ StudyQV is one of my main startup projects and one of the projects I'm using to 
 
 ### 📊 Business Manager — *(IvoBix)*
 
-**Business Manager**, currently being developed under the name **IvuBiz**, is a business management application focused on helping Nigerian businesses gain better visibility and control over their operations.
+**Business Manager**, currently being developed under the name **IvoBix**, is a business management application focused on helping Nigerian businesses gain better visibility and control over their operations.
 
 The idea is to build a practical system for businesses such as supermarkets, pharmacies, warehouses and retailers.
 
@@ -221,7 +221,7 @@ It's to build digital products that are **useful, understandable and built aroun
 | Project                       | Description                                                       |
 | ----------------------------- | ----------------------------------------------------------------- |
 | **StudyQV**                   | University-focused CBT and revision platform                      |
-| **Business Manager (IvuBiz)** | Business management system for Nigerian businesses                |
+| **Business Manager (IvoBix)** | Business management system for Nigerian businesses                |
 | **GPA & CGPA Calculator**     | Academic performance calculator built with HTML, CSS & JavaScript |
 
 These are only some of the projects I've worked on. My repositories contain more of my experiments, websites and development work.
