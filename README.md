@@ -1,11 +1,14 @@
-<!-- HERO BANNER -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                        -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:00BFFF&height=220&section=header&text=ERUCHE&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20Solutions%20Through%20Code&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:171717,50:303030,100:667A68&text=CODEBRO&fontColor=ffffff&fontSize=75&fontAlignY=45&animation=fadeIn&stroke=667A68&strokeWidth=1" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Founder+%7C+Full-Stack+Developer;Programmer+%7C+Problem+Solver;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=667A68&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Founder+%7C+Programmer+%7C+Problem+Solver;Building+Software+That+Solves+Real+Problems;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
 <br>
 
@@ -13,33 +16,70 @@
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.studyqv.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeBro-Programmer)
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm Eruche, a developer and founder passionate about using technology to solve real-world problems.
+I'm **CodeBro**, a Full-Stack Developer, founder and problem solver passionate about building practical software that solves real-world problems.
 
-I enjoy taking ideas from concept to implementation — designing systems, building web applications, developing APIs, and turning everyday challenges into practical digital solutions.
+I build websites, web applications, REST APIs and digital solutions, with a strong interest in backend development, databases, system architecture and business automation.
 
-I'm particularly interested in building products, improving business processes through software, and creating applications that people can actually use.
+I enjoy taking ideas from concept to deployment, understanding how things work beneath the surface, and building solutions that people can actually use.
+
+I believe good software isn't just about writing code. It's about solving the right problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 [StudyQV](https://www.studyqv.xyz)
+### 📚 StudyQV
 
-An academic learning platform designed to make revision more engaging through CBT practice, past questions, and academic competitions.
+A university-focused CBT and revision platform designed to help students practise past questions, prepare for their courses and participate in academic competitions.
 
-### 💼 [IvoBix Business Manager](https://business-manager-webapp-v2.vercel.app)
+**Built with:**
 
-A business management application built to help businesses organize and manage their activities more efficiently.
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
 
-### 🧮 [GPA & CGPA Calculator](https://gpa-calculator-codebro.vercel.app)
+🌐 [Visit StudyQV](https://www.studyqv.xyz)
 
-A web-based academic calculator that helps students calculate and keep track of their GPA and CGPA.
+🔐 Repository: Private
+
+---
+
+### 📊 IvoBix — Business Manager
+
+A business management system being developed to help Nigerian businesses manage their operations with better visibility, organisation and control.
+
+**Built with:**
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `PostgreSQL`
+
+🌐 [Explore Business Manager](https://business-manager-webapp-v2.vercel.app)
+
+🔐 Repository: Private
+
+---
+
+### 🧮 GPA & CGPA Calculator
+
+A lightweight academic calculator built to simplify GPA and CGPA calculations.
+
+**Built with:**
+
+`HTML` `CSS` `JavaScript`
+
+🌐 [Try the Calculator](https://gpa-calculator-codebro.vercel.app)
+
+💻 [View Repository](https://github.com/CodeBro-Programmer/GPA-calculator)
+
+---
+
+> These are just a few of the things I've built. I'm constantly exploring ideas, developing applications and working on practical software solutions.
 
 ---
 
@@ -47,44 +87,62 @@ A web-based academic calculator that helps students calculate and keep track of 
 
 Technologies and tools I work with:
 
-<div align="center">
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</div>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+### Backend
 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+### Databases
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</div>
+
+### Development Tools & Platforms
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </div>
 
 ---
 
-## 🎯 Areas of Focus
+## 🧠 Areas of Focus
 
-- **Full-Stack Development** — Building functional web applications from frontend to backend.
-- **Backend Development** — Creating APIs, handling authentication, and developing application logic.
-- **Database Design** — Structuring and managing data with PostgreSQL and MongoDB.
-- **Business Automation** — Using software to reduce repetitive tasks and improve workflows.
-- **Product Development** — Turning ideas into useful, maintainable digital products.
-- **Problem Solving** — Understanding problems and developing practical solutions.
+I'm continuously improving my knowledge and practical experience in:
+
+- REST API design and development
+- Authentication and authorization
+- Database design and management
+- PostgreSQL, SQL and transactions
+- Backend architecture
+- HTTP and web application security
+- Business and workflow automation
+- Building maintainable and scalable applications
 
 ---
 
-## 💡 What I Build
+## 💼 What I Build
 
-I enjoy building solutions that make work easier and processes more efficient.
+Through **CodeBro Digital**, I work towards helping businesses and individuals solve problems through technology.
 
-Some areas I'm interested in include:
+My areas of interest include:
 
-- Business management systems
-- Web applications
-- REST APIs
-- Workflow automation
-- SaaS and digital products
-- Academic and productivity tools
+- Website Development
+- Full-Stack Web Applications
+- Business Management Systems
+- Business Automation
+- REST API Development
+- Digital Solutions
+- SaaS and Product Development
+
+My focus is simple: build useful software that addresses actual needs.
 
 ---
 
@@ -92,54 +150,38 @@ Some areas I'm interested in include:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CodeBro-Programmer&show_icons=true&hide_border=true&bg_color=171717&title_color=00BFFF&icon_color=1D4ED8&text_color=E6F1FF&ring_color=00BFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodeBro-Programmer&show_icons=true&theme=transparent&hide_border=true&title_color=667A68&icon_color=667A68&text_color=999999" height="165" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBro-Programmer&layout=compact&hide_border=true&bg_color=171717&title_color=00BFFF&text_color=E6F1FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBro-Programmer&layout=compact&theme=transparent&hide_border=true&title_color=667A68&text_color=999999" height="165" />
 
 </div>
 
 ---
 
-## 🧠 My Approach
+## 🎯 My Approach
 
-I believe good software starts with understanding the problem.
+I believe in understanding problems before writing solutions.
 
-Before building, I try to understand:
+My development approach:
 
-- What problem needs to be solved?
-- Who is experiencing the problem?
-- What should the solution achieve?
-- How can it be built in a maintainable way?
+**Understand → Plan → Build → Test → Improve**
 
-My goal is not just to write code, but to build solutions that serve a purpose.
-
----
-
-## 🌐 CodeBro Digital
-
-Through **CodeBro Digital**, I work towards helping businesses use technology to improve how they operate.
-
-My interests include:
-
-- Website development
-- Business management systems
-- Digital solutions
-- Business and workflow automation
+I don't just want to write code that works. I want to understand why it works, how it can be improved, and how to build it properly.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building meaningful projects, and connecting with people who are passionate about technology and problem-solving.
+I'm open to software development opportunities, collaborations, interesting projects and connecting with other developers and builders.
 
 <div align="center">
 
-<a href="https://github.com/CodeBro-Programmer">
-<img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeBro-Programmer)
 
-<br><br>
+**Building ideas into solutions, one line of code at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1D4ED8&height=110&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667A68,100:171717&height=100&section=footer" width="100%" />
 
 </div>
